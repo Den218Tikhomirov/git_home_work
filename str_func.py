@@ -4,3 +4,12 @@ def upper_string(val):
 
 
 print(upper_string(""))
+
+
+def cap_string(symbol):
+    """переводит первый символ в верхний регистр"""
+    symbol = input(str)
+    return symbol.capitalize()
+
+
+print(cap_string(""))
