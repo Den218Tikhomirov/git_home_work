@@ -7,7 +7,7 @@ print(upper_string(""))
 
 
 def cap_string(symbol):
-    """переводит первый символ в верхний регистр"""
+    """переводит первый символы в верхний регистр"""
     symbol = input(str)
     return symbol.capitalize()
 
