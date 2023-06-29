@@ -1,7 +1,5 @@
 def upper_string(val):
     """ Функция переводит текст в верхний регистр
-    тест
-    тест
     тест"""
     val = input(str)
     return val.upper()
