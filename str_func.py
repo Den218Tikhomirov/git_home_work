@@ -11,7 +11,6 @@ print(upper_string(""))
 def cap_string(symbol):
     """переводит первый символы в верхний регистр
     тест
-    тест
     """
     symbol = input(str)
     return symbol.capitalize()
