@@ -16,12 +16,3 @@ def cap_string(symbol):
 
 
 print(cap_string(""))
-
-def cap_string(symbol):
-    """переводит первый символы в верхний регистр
-    """
-    symbol = input(str)
-    return symbol.capitalize()
-
-
-print(cap_string(""))
